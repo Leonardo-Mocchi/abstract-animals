@@ -46,4 +46,4 @@ Aggiungiamo 2 metodi:
 (Dove IVolante e INuotante sono le due interfacce create nell'esercizio 2).
 Questi metodi prendono come parametro un animale che può o volare / nuotare e richiamano il corrispondente metodo vola() / nuota().
 
-[ ] Sempre nella classe main, implementiamo il metodo main che istanzi animali che volano o nuotano e richiamare i metodi faiVolare / faiNuotare passandoglieli come parametro.
+[x] Sempre nella classe main, implementiamo il metodo main che istanzi animali che volano o nuotano e richiamare i metodi faiVolare / faiNuotare passandoglieli come parametro.

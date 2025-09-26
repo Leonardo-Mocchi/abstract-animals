@@ -1,7 +1,7 @@
 package org.lessons.java.abstract_classes;
 
 public interface INuotante {
-    default void nuota() {
+    default public void nuota() {
         System.out.println("Sto nuotando!!!");
     }
 }

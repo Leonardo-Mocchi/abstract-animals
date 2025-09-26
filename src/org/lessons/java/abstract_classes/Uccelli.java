@@ -1,4 +1,4 @@
 package org.lessons.java.abstract_classes;
 
-public abstract class Uccelli extends Animale {
+public abstract class Uccelli extends AbstractAnimale {
 }
